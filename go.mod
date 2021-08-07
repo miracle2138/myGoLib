@@ -1,3 +1,3 @@
-module github.com/miracle2138/myGoLib/v2
+module github.com/miracle2138/myGoLib
 
 go 1.16
